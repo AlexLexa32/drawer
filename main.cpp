@@ -55,7 +55,7 @@ struct kv {
 
 int main() {
     //окно
-    RenderWindow window(VideoMode(650, 700), "buttons");
+    RenderWindow window(VideoMode(650, 700), "drawer");
     
     //________________________________________________________________
     
